@@ -1,4 +1,4 @@
-#❄️ Hyprland Dotfiles
+❄️ Hyprland Dotfiles
 
 Optimized for Fedora 43
 
