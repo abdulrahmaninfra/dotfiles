@@ -25,17 +25,17 @@ Run the command corresponding to your distribution:
 Fedora
 Bash
 
-sudo dnf install hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
+    sudo dnf install hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
 
 Arch Linux
 Bash
 
-sudo pacman -S hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
+    sudo pacman -S hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
 
 Debian/Ubuntu
 Bash
 
-sudo apt install hyprland hypridle hyprlock hyprpaper rofi waybar alacritty
+    sudo apt install hyprland hypridle hyprlock hyprpaper rofi waybar alacritty
 
 2. Apply Configuration
 
@@ -43,13 +43,13 @@ Clone this repository and move the folders into your .config directory.
 Bash
 
 # Clone the repository
-git clone https://github.com/yourusername/dotfiles.git
+    git clone https://github.com/abdulrahmaninfra/dotfiles.git
 
 # Navigate to the folder
-cd dotfiles
+    cd dotfiles
 
 # Copy configurations to your home directory
-cp -r .config/* ~/.config/
+    cp -r .config/* ~/.config/
 
 ✨ Key Features
 
