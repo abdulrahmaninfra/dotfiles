@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6547c8ed-22f9-48ed-a991-a51a5546f575" />❄️ Hyprland Dotfiles
+❄️ Hyprland Dotfiles
 
 Optimized for Fedora 43
 
@@ -69,11 +69,18 @@ Bash
 
     Super + Q — Close Window
 
-    Super + i — Toggle Fullscreen
-    
+    Super + i — Toggle Fullscreen\
+Screenshots
+
+
+Desktop     
 ![Desktop Preview](screenshots/fastfetch.png)
+Rofi
 ![Rofi Preview](screenshots/rofi.png)
+Wifi
 ![wifi Preview](screenshots/wifi.jpg)
+Bluetooth
 ![Bluetooth Preview](screenshots/bluetooth.png)
+Power Profiles
 ![Power Profile Preview](screenshots/power-profile.png)
 
