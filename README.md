@@ -25,17 +25,17 @@ Run the command corresponding to your distribution:
 Fedora
 Bash
 
-    sudo dnf install hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
+    sudo dnf install hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty nautilus powerprofilectl
 
 Arch Linux
 Bash
 
-    sudo pacman -S hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty
+    sudo pacman -S hyprland hypridle hyprlock hyprpaper rofi-wayland waybar alacritty nautilus powerprofilectl
 
 Debian/Ubuntu
 Bash
 
-    sudo apt install hyprland hypridle hyprlock hyprpaper rofi waybar alacritty
+    sudo apt install hyprland hypridle hyprlock hyprpaper rofi waybar alacritty nautilus powerprofilectl
 
 2. Apply Configuration
 
